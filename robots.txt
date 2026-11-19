@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minwon-7xcm.netlify.app/sitemap.xml
